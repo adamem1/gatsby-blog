@@ -3,7 +3,7 @@ module.exports = {
     title: `Adam's Starter Blog`,
     author: {
       name: `Adam Martinetti`,
-      summary: `I'm dabbling in Gatsby slightly`,
+      summary: `I'm dabbling in Gatsby slightly. Here's' where I'll be doing that, unless I can think of a more useful purpose for this blog. `,
     },
     description: `A starter blog to get comfortable with Gatsby`,
     siteUrl: `https://adamem.cf/`,
