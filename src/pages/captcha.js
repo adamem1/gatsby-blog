@@ -1,6 +1,11 @@
-import React from "react"
-import { Link } from "gatsby"
+import * as React from "react"
+import { Link, graphql } from "gatsby"
 
+import Bio from "../components/bio"
+import Layout from "../components/layout"
+import SEO from "../components/seo"
+
+  
 export default function Home() {
   return (
     <main>
@@ -11,3 +16,4 @@ export default function Home() {
     </main>
   )
 }
+
