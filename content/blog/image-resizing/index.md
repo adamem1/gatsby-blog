@@ -29,4 +29,4 @@ Here's the resized version of the car
 
 Here's the resized version of the car
 
-![Resized car](/cdn-cgi/image/width=400,format=avif/static/de6bf87221e000ab8ef41fb74565a2f4/3ac88/car.jpg)
+![Resized car](/cdn-cgi/image/width=800,format=avif/static/de6bf87221e000ab8ef41fb74565a2f4/3ac88/car.jpg)
