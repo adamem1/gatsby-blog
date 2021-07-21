@@ -17,4 +17,16 @@ Here's the original picture of the car.
 
 Here's the resized version of the car
 
-![Resized car](/cdn-cgi/image/height=600,fit=scale-down/static/de6bf87221e000ab8ef41fb74565a2f4/3ac88/car.jpg)
+![Resized car](/cdn-cgi/image/width=400,fit=scale-down/static/de6bf87221e000ab8ef41fb74565a2f4/3ac88/car.jpg)
+
+# AVIF car
+
+Here's the resized version of the car
+
+![AVIF car](/cdn-cgi/image/width=80,format=avif/static/de6bf87221e000ab8ef41fb74565a2f4/3ac88/car.jpg)
+
+# AVIF car big 
+
+Here's the resized version of the car
+
+![Resized car](/cdn-cgi/image/width=400,format=avif/static/de6bf87221e000ab8ef41fb74565a2f4/3ac88/car.jpg)
